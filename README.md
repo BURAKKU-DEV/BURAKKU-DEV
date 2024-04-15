@@ -8,4 +8,3 @@ My name is Anatoly, I am currently studying web development.
 - 📫 How to contact me: email
 - 😄 Pronouns: he
 - ⚡ Interesting fact: I love pizza
--->
